@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Narayan Biswas
+### Hi, I'm Narayan Biswas 👋
 ![](https://pbs.twimg.com/profile_banners/1209493782640484352/1782626060/600x200)
 
 I'm a passionate Front-End Web Developer and WordPress Expert who enjoys building modern, responsive, and user-friendly websites. I love turning ideas into clean, efficient, and high-performance web solutions. I'm committed to continuous learning, exploring new technologies, and sharing my knowledge with the developer community. My focus is on writing maintainable code, solving real-world problems, and delivering quality work with attention to detail. Every project is an opportunity for me to grow, create value, and make a positive impact through technology.
